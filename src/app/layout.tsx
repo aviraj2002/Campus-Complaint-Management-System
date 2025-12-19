@@ -4,8 +4,8 @@ import { Toaster } from "@/components/ui/toaster";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "CollegeComplain",
-  description: "Smart Complaint Management System",
+  title: "LNCT Bhopal",
+  description: "Complaint Management System",
 };
 
 export default function RootLayout({

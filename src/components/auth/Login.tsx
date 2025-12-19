@@ -68,8 +68,8 @@ export function Login() {
         <div className="mx-auto mb-4 flex items-center justify-center h-16 w-16 rounded-full bg-primary/10">
           <FileText className="h-8 w-8 text-primary" />
         </div>
-        <CardTitle className="font-headline text-3xl">CollegeComplain</CardTitle>
-        <CardDescription>Smart Complaint Management System</CardDescription>
+        <CardTitle className="font-headline text-3xl">LNCT Bhopal</CardTitle>
+        <CardDescription>Complaint Management System</CardDescription>
       </CardHeader>
       <CardContent className="flex flex-col items-center gap-6 p-6">
         <Button
